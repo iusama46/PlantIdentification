@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#DA0335</color>
+    <color name="colorAccent">#3ED400</color>
+
+    <color name="btnColor">@color/colorAccent</color>
+
+    <color name="dialog_choose_icon_color" tools:ignore="MissingDefaultResource">@color/colorAccent</color>
+    <color name="dialog_choose_text_color" tools:ignore="MissingDefaultResource">@color/white</color>
+
+
+    <!--  <color name="ucrop_color_toolbar">#3F51B5</color> - Title bar color
+      <color name="ucrop_color_statusbar">#303F9F</color> - Status bar color
+      <color name="ucrop_color_widget_active">#42A5F5</color> - Button text color and slider bar color
+      <color name="ucrop_color_toolbar_widget">#fff</color> - Slider bar background color-->
+
+    <!-- <color name="dialog_choose_icon_color">@color/teal_A700</color> - ImageProvider.BOTH dialog icon color
+     <color name="dialog_choose_text_color">@color/white</color> - ImageProvider.BOTH dialog text color-->
+
+
+</resources>
